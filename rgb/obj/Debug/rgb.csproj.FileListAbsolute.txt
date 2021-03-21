@@ -1,0 +1,16 @@
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.csprojAssemblyReference.cache
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.Properties.Resources.resources
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.vPrincipal.resources
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.csproj.GenerateResource.cache
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.csproj.CoreCompileInputs.cache
+C:\Users\Na1hT\source\repos\rgb\rgb\bin\Debug\rgb.exe.config
+C:\Users\Na1hT\source\repos\rgb\rgb\bin\Debug\rgb.exe
+C:\Users\Na1hT\source\repos\rgb\rgb\bin\Debug\rgb.pdb
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.exe
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.pdb
+C:\Users\Na1hT\source\repos\rgb\rgb\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.csproj.CopyComplete
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.vCliente.resources
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.vProducto.resources
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.vVentas.resources
+C:\Users\Na1hT\source\repos\rgb\rgb\obj\Debug\rgb.vReparacion.resources
